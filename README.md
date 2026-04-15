@@ -5,6 +5,6 @@ Converts plain English questions into SQL queries, runs them on a real SQLite da
 
 Run:
 
-pip install langgraph langchain-groq python-dotenv streamlit
+``pip install langgraph langchain-groq python-dotenv streamlit``
 
-streamlit run app.py
+``streamlit run app.py``
