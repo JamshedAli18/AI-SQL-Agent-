@@ -7,4 +7,4 @@ Run:
 
 ``pip install langgraph langchain-groq python-dotenv streamlit``
 
-``streamlit run app.py``
+``streamlit run app.py`` 
